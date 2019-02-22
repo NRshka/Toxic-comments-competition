@@ -9,3 +9,4 @@ Multilabel классификация интернет комментариев 
 https://dl.fbaipublicfiles.com/fasttext/vectors-english/crawl-300d-2M-subword.zip
 
 Для сравнения, прилагается ipyb notebook с решением той же задачи с помощью линейной регрессии.
+В ноутбуках используется matplotlib для построения графикоф и tqdm для отображения хода работы.
